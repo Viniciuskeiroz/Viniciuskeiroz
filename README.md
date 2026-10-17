@@ -73,10 +73,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Viniciuskeiroz/Viniciuskeiroz/pacman-output/pacman-contribution-graph.svg">
   <img alt="Pac-Man das contribuições do GitHub" src="https://raw.githubusercontent.com/Viniciuskeiroz/Viniciuskeiroz/pacman-output/pacman-contribution-graph.svg" width="100%">
 </picture>
-
-
-###
-
-<div align="center">
-  <p>Estudando, desenvolvendo projetos e evoluindo um pouco a cada dia.</p>
-</div>
