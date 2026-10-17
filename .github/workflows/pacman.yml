@@ -1,0 +1,32 @@
+name: generate arcade contribution graphs
+
+on:
+  # Roda automaticamente a cada 24 horas (à meia-noite)
+  schedule:
+    - cron: "0 0 * * *"
+  
+  # Permite que você ative o robô manualmente na aba Actions
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # Gera o jogo do Pacman com base nas suas contribuições do GitHub
+      - name: generate pacman-contribution-graph
+        uses: abozanona/pacman-contribution-graph@v1.1.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # As imagens serão geradas nesta branch temporária
+          output_branch: pacman-output
+
+      # Salva os arquivos de imagem gerados dentro do seu repositório
+      - name: push pacman-contribution-graph to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: pacman-output
+          build_dir: pacman-output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
