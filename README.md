@@ -65,13 +65,15 @@
 
 ###
 
+
 <h2 align="center">Contribuições</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Viniciuskeiroz/Viniciuskeiroz/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Viniciuskeiroz/Viniciuskeiroz/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="Gráfico Pac-Man de contribuições do GitHub" src="https://raw.githubusercontent.com/Viniciuskeiroz/Viniciuskeiroz/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Viniciuskeiroz/Viniciuskeiroz/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Viniciuskeiroz/Viniciuskeiroz/pacman-output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man das contribuições do GitHub" src="https://raw.githubusercontent.com/Viniciuskeiroz/Viniciuskeiroz/pacman-output/pacman-contribution-graph.svg" width="100%">
 </picture>
+
 
 ###
 
