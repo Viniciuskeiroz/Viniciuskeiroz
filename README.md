@@ -2,23 +2,11 @@
 <h1 align="center">Olá! Eu sou o Vinicius Queiroz</h1>
 
 <div align="center">
-  <h3>Estudante de Análise e Desenvolvimento de Sistemas na UNICID</h3>
-
+  <h3>Sou estudante de Análise e Desenvolvimento de Sistemas na UNICID, com interesse em desenvolvimento de software, programação e computação em nuvem.</h3>
   <p>
-    Tenho interesse em desenvolvimento de software, programação e computação em nuvem.
-    Utilizo o GitHub para compartilhar projetos acadêmicos, praticar o que venho aprendendo
-    e acompanhar minha evolução na área de tecnologia.
-  </p>
+    Utilizo o GitHub para compartilhar projetos acadêmicos, colocar meus conhecimentos em prática e acompanhar minha evolução na área de tecnologia. Tenho contato com HTML, CSS, JavaScript, Python, C e Java, além de estudar conceitos de banco de dados e AWS.
 
-  <p>
-    Tenho contato com HTML, CSS, JavaScript, Python, C e Java,
-    além de conhecimentos em banco de dados e estudos em AWS.
-  </p>
-
-  <p>
-    Atualmente, busco ampliar meus conhecimentos por meio de projetos práticos,
-    explorar novas tecnologias e desenvolver minhas habilidades para construir
-    minha carreira na área de TI.
+   Busco aprimorar minhas habilidades técnicas por meio de projetos práticos, aprender novas tecnologias e construir uma base sólida para minha carreira em desenvolvimento de software.
   </p>
 </div>
 
@@ -28,7 +16,6 @@
   <a href="https://www.linkedin.com/in/viniciusqueirozlima">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
   <a href="https://github.com/Viniciuskeiroz">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -62,22 +49,14 @@
 
   <h2>Projetos em destaque</h2>
 
-  <p>
-    <strong>CineIndex:</strong> projeto de site sobre filmes,
-    com páginas de detalhes, avaliações e comentários.
-  </p>
+  <p><strong>CineIndex:</strong> projeto de site sobre filmes, com páginas de detalhes, avaliações e comentários.</p>
 
-  <p>
-    <strong>Projetos acadêmicos:</strong> aplicações e atividades
-    desenvolvidas durante a graduação em ADS.
-  </p>
+  <p><strong>Projetos acadêmicos:</strong> aplicações e atividades desenvolvidas durante a graduação em ADS.</p>
 
-  <p>
-    <strong>Projetos de programação:</strong> exercícios práticos
-    para desenvolver lógica e aprimorar habilidades técnicas.
-  </p>
+  <p><strong>Projetos de programação:</strong> exercícios práticos para desenvolver lógica e aprimorar habilidades técnicas.</p>
 
 </div>
+
 
 <div align="center">
   <a href="https://github.com/Viniciuskeiroz?tab=repositories">
@@ -91,13 +70,14 @@
 
 <div align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=Viniciuskeiroz&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&card_width=400"
+    src="https://github-stats-extended.vercel.app/api?username=Viniciuskeiroz&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"
+    width="400"
     height="165"
     alt="Estatísticas do GitHub"
   />
-
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Viniciuskeiroz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Viniciuskeiroz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    width="400"
     height="165"
     alt="Linguagens mais utilizadas"
   />
@@ -105,24 +85,13 @@
 
 ###
 
+
 <h2 align="center">Contribuições</h2>
 
 <div align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Viniciuskeiroz/Viniciuskeiroz/pacman-output/pacman-contribution-graph-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Viniciuskeiroz/Viniciuskeiroz/pacman-output/pacman-contribution-graph.svg"
-    />
-
-    <img
-      alt="Pac-Man das contribuições do GitHub"
-      src="https://raw.githubusercontent.com/Viniciuskeiroz/Viniciuskeiroz/pacman-output/pacman-contribution-graph.svg"
-      width="750"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Viniciuskeiroz/Viniciuskeiroz/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Viniciuskeiroz/Viniciuskeiroz/pacman-output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man das contribuições do GitHub" src="https://raw.githubusercontent.com/Viniciuskeiroz/Viniciuskeiroz/pacman-output/pacman-contribution-graph.svg" width="900">
   </picture>
 </div>
